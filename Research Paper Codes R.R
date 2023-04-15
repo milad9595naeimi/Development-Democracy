@@ -1,8 +1,5 @@
 ####
 
-getwd()
-setwd("D:/University of Toronto/Courses/2021/Fall 2021/POL419 Quantitative Methods and Data Analysis/Assignments/Empirical Research Paper/Upsala Dataset/Afghanistan")
-getwd()
 
 ####Read Data
 my.data6 <- read.csv("10_11_21_0738pm_wep.csv")
